@@ -1,0 +1,23 @@
+{
+  "name": "website-perwira-sekti",
+  "version": "1.0.0",
+  "description": "Website-Farmamin - Sistem Informasi Perizinan Pangan Dinas Kesehatan Kota Semarang",
+  "main": "fetch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yopijl/Website-Perwira-Sekti.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yopijl/Website-Perwira-Sekti/issues"
+  },
+  "homepage": "https://github.com/yopijl/Website-Perwira-Sekti#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
